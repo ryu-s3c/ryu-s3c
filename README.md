@@ -58,6 +58,6 @@ drwx------  splunk-siem/           # log pipeline, SPL hunting
 
 ### `> contact`
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF41)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/long-hoang-a92443307/)
 
 <div align="center"><sub><code>// no system is safe — only patched</code></sub></div>
