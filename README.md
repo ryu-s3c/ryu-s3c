@@ -1,34 +1,32 @@
 <div align="center">
 
-```
-██╗      ██████╗ ███╗   ██╗ ██████╗ ██╗  ██╗████████╗
-██║     ██╔═══██╗████╗  ██║██╔════╝ ██║  ██║╚══██╔══╝
-██║     ██║   ██║██╔██╗ ██║██║  ███╗███████║   ██║
-██║     ██║   ██║██║╚██╗██║██║   ██║██╔══██║   ██║
-███████╗╚██████╔╝██║ ╚████║╚██████╔╝██║  ██║   ██║
-╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝
-```
+<img src="./header.svg" alt="RYU_S3C" width="100%" />
 
-<a href="https://github.com/longht0911">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;Security+Engineer+%7C+Blue+Team;Breaking+things+to+secure+them.;Currently%3A+Web+Pentest+%2B+AD+attacks" alt="whoami" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=%24+whoami+--verbose;Blue+Teamer+turning+Purple.;AppSec+%7C+Web+Pentest+%7C+AD+attacks;Break+it.+Understand+it.+Secure+it." alt="whoami" />
 
 </div>
 
----
+```console
+ryu@s3c:~$ ./recon.sh --target self
+
+[*] Initializing recon on RYU_S3C ...
+[+] Role ............ Information Security Engineer
+[+] Sector .......... Finance / Securities / Digital assets
+[+] Base ............ Hanoi, VN
+[+] Ops history ..... dev  ->  security engineer  ->  blue team  ->  policy & compliance
+[*] Pivoting to ..... AppSec / Web Pentest / Red Team AD
+[!] Status .......... still learning. still hunting.
+```
 
 ```console
-longht@sec-box:~$ cat about.txt
+ryu@s3c:~$ ls -la ./labs
 
-  role      Information Security Engineer
-  sector    Finance / Securities / Digital assets
-  focus     Blue Team · SecOps · Policy & Compliance
-  heading   AppSec · Web Pentest · Active Directory attacks
-  base      Hanoi, VN
-
-longht@sec-box:~$ ls ./labs
-  ad-attack-defense/   ir-practice/   owasp-top10-lab/
-  phishing-sim/        soar-wazuh/    splunk-siem/
+drwx------  ad-attack-defense/     # kerberoast, ACL abuse, detection rules
+drwx------  ir-practice/           # webshell, reverse shell, triage
+drwx------  owasp-top10-lab/       # vulnerable fintech app, attack <-> fix
+drwx------  phishing-sim/          # gophish campaigns
+drwx------  soar-wazuh/            # detection + auto response
+drwx------  splunk-siem/           # log pipeline, SPL hunting
 ```
 
 ### `> arsenal`
@@ -52,8 +50,14 @@ longht@sec-box:~$ ls ./labs
   <img alt="contribution snake" src="https://raw.githubusercontent.com/longht0911/longht0911/output/snake.svg" />
 </picture>
 
+### `> writeups`
+
+```text
+[ coming soon ]  HTB / THM machines, web pentest notes, AD attack paths
+```
+
 ### `> contact`
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF41)
 
-<sub>`// no system is safe — only patched`</sub>
+<div align="center"><sub><code>// no system is safe — only patched</code></sub></div>
