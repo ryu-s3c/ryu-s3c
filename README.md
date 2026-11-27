@@ -2,7 +2,7 @@
 
 <img src="./header.svg" alt="RYU_S3C" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=%24+whoami+--verbose;Blue+Teamer+turning+Purple.;AppSec+%7C+Web+Pentest+%7C+AD+attacks;Break+it.+Understand+it.+Secure+it." alt="whoami" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=620&lines=%24+whoami;Application+Security+Engineer.;I+break+web+apps+%E2%80%94+so+attackers+can't.;Ex-Blue+Team.+I+know+how+they+hunt+you." alt="whoami" />
 
 </div>
 
@@ -10,11 +10,11 @@
 ryu@s3c:~$ ./recon.sh --target self
 
 [*] Initializing recon on RYU_S3C ...
-[+] Role ............ Information Security Engineer
+[+] Focus ........... Application Security (web)
+[+] Method .......... offensive testing  ->  find it, prove it, fix it
+[+] Background ...... ex-dev  ->  blue team / secops  ->  policy & compliance
 [+] Sector .......... Finance / Securities / Digital assets
 [+] Base ............ Hanoi, VN
-[+] Ops history ..... dev  ->  security engineer  ->  blue team  ->  policy & compliance
-[*] Pivoting to ..... AppSec / Web Pentest / Red Team AD
 [!] Status .......... still learning. still hunting.
 ```
 

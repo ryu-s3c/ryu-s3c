@@ -20,8 +20,8 @@
 <text class="t g1" x="450" y="122">RYU_S3C</text>
 <text class="t g2" x="450" y="122">RYU_S3C</text>
 <text class="t m" x="450" y="122">RYU_S3C</text>
-<text class="s" x="440" y="168">root@ryu:~# blue team // appsec // web pentest</text>
+<text class="s" x="440" y="168">root@ryu:~# appsec :: break web apps before they do</text>
 </g>
-<rect class="c" x="672" y="154" width="10" height="18"/>
+<rect class="c" x="706" y="154" width="10" height="18"/>
 <rect x="1" y="1" width="898" height="218" rx="10" fill="none" stroke="#00FF41" stroke-opacity=".35"/>
 </svg>
