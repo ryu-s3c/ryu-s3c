@@ -46,8 +46,8 @@ drwx------  splunk-siem/           # log pipeline, SPL hunting
 ### `> activity`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longht0911/longht0911/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/longht0911/longht0911/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryu-s3c/ryu-s3c/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ryu-s3c/ryu-s3c/output/snake.svg" />
 </picture>
 
 ### `> writeups`
